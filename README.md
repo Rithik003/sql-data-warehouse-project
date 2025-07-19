@@ -4,6 +4,9 @@ Buliding a modern warehouse with MYSQL, ETL processes, data modeling, analytics.
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
+![DataWareHouse](https://github.com/user-attachments/assets/af051b89-e46d-4888-adba-f6917ae21f1f)
+
+
 
 
 1.Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
